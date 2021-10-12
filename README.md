@@ -1,1 +1,2 @@
 # mystory
+Class project
